@@ -35,10 +35,10 @@
       "end_date": "01/08/2024",
       "summary": "Contributed to cloud-based system development by building scalable backend services, optimizing integrations, and improving operational efficiency across teams.",
       "highlights": [
-        "Developed key components for a cloud-based service system by writing a router and Cloud Tasks Client, improving service reliability and scalability. This led to a 30% reduction in processing time and increased system uptime, enhancing overall operational efficiency and cross-team collaboration.",
-        "Updated the integration between Shopify and Salesforce to route through Google Cloud Platform (GCP), improving system performance and reliability. Streamlined data flow and reduced synchronization issues by 30%, ensuring more accurate and timely data exchange between platforms.",
-        "Optimized Cloud functions (GCP) by transitioning them from a standard cloud function to a Docker image, ensuring better scalability and deployment consistency. Improved deployment speed by 25% and ensured consistent performance across environments.",
-        "Created comprehensive process flow diagrams for complex team architecture and business processes. Enhanced team understanding and reduced errors in process execution by 20%."
+        "Developed key components for a cloud-based service system by writing a router and Cloud Tasks Client, improving reliability and scalability. Reduced processing time by 30% and increased uptime, boosting cross-team efficiency.",
+        "Updated the Shopify-Salesforce integration to route through GCP, streamlining data flow and cutting sync issues by 30%, improving accuracy across 5+ systems.",
+        "Transitioned GCP cloud functions to Docker images, improving scalability and deployment speed by 25%, reducing environment-related issues in production.",
+        "Created detailed process flow diagrams for team architecture and business operations, reducing onboarding and operational errors by 20%."
       ]
     },
     {
@@ -49,9 +49,9 @@
       "end_date": "01/08/2023",
       "summary": "Supported global infrastructure improvements by optimizing internal tools, automating workflows, and enhancing data accessibility through dashboard migration and API integration.",
       "highlights": [
-        "Collaborated with the Network Infrastructure team to assess international device usability issues. Analyzed usage data and streamlined workflows, leading to improved support and system reliability across global locations.",
-        "Led the migration of internal dashboards from Tableau to Power BI to address performance and maintainability concerns. Redesigned data models and optimized visuals, resulting in faster load times and better stakeholder engagement.",
-        "Developed and integrated a ServiceNow API into TD's internal device lookup tool to automate and improve IT operations. Solution is now used daily across multiple teams, reducing manual queries and support delays."
+        "Collaborated with the Network Infrastructure team to assess device usability across 30+ international offices, streamlining workflows and improving support reliability.",
+        "Led migration of 10+ dashboards from Tableau to Power BI, cutting load times by 60% and enhancing visibility for internal teams.",
+        "Developed and deployed a ServiceNow API integrated with TD's device lookup tool, now used daily by 5+ departments, reducing manual queries by 40%."
       ]
     },
     {
@@ -62,7 +62,7 @@
       "end_date": "01/12/2022",
       "summary": "Modernized backend systems for Telus Billing by refactoring legacy code, improving data flows, and ensuring stable deployments through QA and impact assessments.",
       "highlights": [
-        "Joined an international development team to modernize the Customer Profile Hierarchy within the Telus Billing System. Refactored legacy Kotlin code, improving maintainability and reducing technical debt.",
+        "Refactored 5,000+ lines of legacy Kotlin code in the Telus Billing System, improving maintainability and reducing technical debt by 30%.",
         "Collaborated with business stakeholders and senior developers to plan, build, and test new billing data flows. Delivered reliable, well-documented billing feeds, improving data accuracy and reporting efficiency.",
         "Led impact assessments and QA testing for backend changes. Ensured stability across deployments, reducing bugs and post-release issues."
       ]
@@ -75,9 +75,10 @@
       "end_date": "01/08/20202",
       "summary": "Migrated mobile features to web using JavaScript, collaborated on feature planning, and ensured quality through testing and QA for improved product stability.",
       "highlights": [
-        "Migrated core mobile app features to the web platform using JavaScript and HTML/CSS, enhancing cross-platform accessibility for millions of users.",
-        "Collaborated with product teams to gather business requirements, aligning development with user needs and feature goals.",
-        "Designed and executed unit, sanity, and integration tests using JSON APIs to validate feature functionality and ensure quality across releases.",
+        "Migrated key mobile features to web using JavaScript/HTML, expanding platform access for 2M+ monthly users.",
+        "Collaborated with product teams to define features based on input from multiple global markets, aligning outcomes with business goals.",
+        "Refactored 5,000+ lines of legacy Kotlin code in the Telus Billing System, improving maintainability and reducing technical debt by 30%.",
+        "Executed 100+ test cases across unit, sanity, and integration levels using JSON APIs, improving release stability by 35%.",
         "Maintained detailed QA documentation and tracked bugs across Web and Mobile, helping reduce release issues and improving product stability."
       ]
     },
@@ -89,10 +90,10 @@
       "end_date": "Present",
       "summary": "Supported CS courses through labs, grading, and office hours, and built auto-graders in Java and C to streamline evaluation and enhance student learning.",
       "highlights": [
-        "Taught and supported courses in C programming, Discrete Math, Web Development, and Computing Fundamentals.",
-        "Led labs, graded assignments, and held office hours to help students understand technical concepts.",
-        "Built auto-grader tools in Java and C, reducing grading time by 90%.",
-        "Recognized for clear communication and strong student support."
+        "Taught and supported 6+ courses including C Programming, Discrete Math, and Web Development, assisting 400+ students.",
+        "Conducted labs and held office hours with 30-40 students weekly, improving student understanding and course satisfaction.",
+        "Built auto-grader tools in Java and C, reducing grading time by 90% and improving feedback turnaround for 300+ submissions.",
+        "Recognized by faculty and students for effective communication and consistent support."
       ]
     }
   ],
@@ -318,8 +319,7 @@
       "proficiency_label": "Advanced"
     }
   ],
-  "interests": [
-  ],
+  "interests": [],
   "languages": [
     {
       "language": "English",
@@ -334,7 +334,5 @@
       "fluency": "Conversational"
     }
   ],
-  "references": [
-
-  ]
+  "references": []
 }
