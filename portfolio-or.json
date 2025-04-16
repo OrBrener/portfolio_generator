@@ -1,0 +1,219 @@
+{
+  "name": "Or Brener",
+  "label": "Software Engineer",
+  "image_path": "img/profile.png",
+  "contact": {
+    "email": "or.brener@gmail.com",
+    "phone": "647-888-2490",
+    "location": "Toronto, Ontario, Canada"
+  },
+  "summary": "Full Stack Software Developer and Business Systems Analyst with a diverse skill set in backend development, cloud integration, and team collaboration.",
+  "base_url": "https://orbrener.github.io/",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://orbrener.github.io/",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/orbrener",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/OrBrener",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "ecobee",
+      "position": "Integrations Developer",
+      "url": "https://www.ecobee.com/en-ca/about/",
+      "start_date": "01/01/2024",
+      "end_date": "01/08/2024",
+      "summary": "Contributed to cloud-based system development by building scalable backend services, optimizing integrations, and improving operational efficiency across teams.",
+      "highlights": [
+        "Developed key components for a cloud-based service system by writing a router and Cloud Tasks Client, improving service reliability and scalability. This led to a 30% reduction in processing time and increased system uptime, enhancing overall operational efficiency and cross-team collaboration.",
+        "Updated the integration between Shopify and Salesforce to route through Google Cloud Platform (GCP), improving system performance and reliability. Streamlined data flow and reduced synchronization issues by 30%, ensuring more accurate and timely data exchange between platforms.",
+        "Optimized Cloud functions (GCP) by transitioning them from a standard cloud function to a Docker image, ensuring better scalability and deployment consistency. Improved deployment speed by 25% and ensured consistent performance across environments.",
+        "Created comprehensive process flow diagrams for complex team architecture and business processes. Enhanced team understanding and reduced errors in process execution by 20%."
+      ]
+    },
+    {
+      "company": "TD Bank",
+      "position": "Business Systems Analyst",
+      "url": "https://www.td.com/ca/en/about-td",
+      "start_date": "01/05/2023",
+      "end_date": "01/08/2023",
+      "summary": "Supported global infrastructure improvements by optimizing internal tools, automating workflows, and enhancing data accessibility through dashboard migration and API integration.",
+      "highlights": [
+        "Collaborated with the Network Infrastructure team to assess international device usability issues. Analyzed usage data and streamlined workflows, leading to improved support and system reliability across global locations.",
+        "Led the migration of internal dashboards from Tableau to Power BI to address performance and maintainability concerns. Redesigned data models and optimized visuals, resulting in faster load times and better stakeholder engagement.",
+        "Developed and integrated a ServiceNow API into TD's internal device lookup tool to automate and improve IT operations. Solution is now used daily across multiple teams, reducing manual queries and support delays."
+      ]
+    },
+    {
+      "company": "York Digital -- Telus Team",
+      "position": "Backend Developer",
+      "url": "https://www.yorkdigital.ca/about-us",
+      "start_date": "01/05/2022",
+      "end_date": "01/12/2022",
+      "summary": "Modernized backend systems for Telus Billing by refactoring legacy code, improving data flows, and ensuring stable deployments through QA and impact assessments.",
+      "highlights": [
+        "Joined an international development team to modernize the Customer Profile Hierarchy within the Telus Billing System. Refactored legacy Kotlin code, improving maintainability and reducing technical debt.",
+        "Collaborated with business stakeholders and senior developers to plan, build, and test new billing data flows. Delivered reliable, well-documented billing feeds, improving data accuracy and reporting efficiency.",
+        "Led impact assessments and QA testing for backend changes. Ensured stability across deployments, reducing bugs and post-release issues."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "My First Project",
+      "summary": "Short summary about my first project",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project One",
+        "Second Highlight of Project One",
+        "Third Highlight of Project One"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=1",
+          "caption": "Image Caption 1"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "Image Caption 2"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=3",
+          "caption": "Image Caption 3"
+        }
+      ]
+    },
+    {
+      "title": "My Second Project",
+      "summary": "Short summary about my second project",
+      "url": "https://sample.com",
+      "highlights": [
+        "First Highlight of Project Two",
+        "Second Highlight of Project Two",
+        "Third Highlight of Project Two"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=4",
+          "caption": "Image Caption 4"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=5",
+          "caption": "Image Caption 5"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=6",
+          "caption": "Image Caption 6"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+  ],
+  "education": [
+    {
+      "institution": "Institution One",
+      "location": "Institution One Location",
+      "url": "https://sample.com",
+      "degrees": [
+        "Master of Science in Computer Science",
+        "Minor in Mathematics"
+      ],
+      "honors": [
+        "Outstanding Student Award",
+        "Dean's List"
+      ],
+      "gpa_cumulative": "3.5",
+      "gpa_major": "4.0",
+      "graduation_date": "01/01/2005"
+    },
+    {
+      "institution": "Institution Two",
+      "location": "Institution Two Location",
+      "url": "https://sample.com",
+      "degrees": [
+        "Bachelor of Science in Physics"
+      ],
+      "honors": [
+        "Scholarship Recipient"
+      ],
+      "gpa_cumulative": "3.2",
+      "gpa_major": "3.9",
+      "graduation_date": "01/01/2000"
+    }
+  ],
+  "skills": [
+    {
+      "name": "My First Skill",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "My Second Skill",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "My First Hobby",
+      "summary": "Short summary about my first Hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Image Caption 7"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Image Caption 8"
+        }
+      ]
+    },
+    {
+      "name": "My Second Hobby",
+      "summary": "Short summary about my second hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=9",
+          "caption": "Image Caption 9"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=10",
+          "caption": "Image Caption 10"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "American Sign Language",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Person One",
+      "relation": "Previous Boss",
+      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+    },
+    {
+      "name": "Person Two",
+      "relation": "Previous Coworker",
+      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+    }
+  ]
+}
