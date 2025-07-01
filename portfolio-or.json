@@ -33,7 +33,7 @@
       "url": "https://www.ecobee.com/en-ca/about/",
       "start_date": "01/2024",
       "end_date": "08/2024",
-      "summary": "Contributed to cloud-based system development by building scalable backend services, optimizing integrations, and improving operational efficiency across teams.",
+      "summary": "Built and optimized cloud-based integrations across ecobee's platform, improving service reliability, deployment scalability, and cross-system data accuracy through GCP and Docker-based solutions.",
       "highlights": [
         "Engineered scalable GCP Cloud Tasks Client and message router to coordinate inter-service communication, reducing processing time by 30% and significantly improving uptime across core integrations.",
         "Optimized the Shopify-Salesforce integration by rerouting data flow through GCP, cutting sync issues by 30% and improving data accuracy across 5+ interconnected systems.",
@@ -46,7 +46,7 @@
       "url": "https://www.td.com/ca/en/about-td",
       "start_date": "05/2023",
       "end_date": "08/2023",
-      "summary": "Supported global infrastructure improvements by optimizing internal tools, automating workflows, and enhancing data accessibility through dashboard migration and API integration.",
+      "summary": "Modernized internal data tools and processes across TD's global infrastructure by migrating dashboards, automating device lookup systems, and enhancing team efficiency with scalable Power BI and ServiceNow integrations.",
       "highlights": [
         "Spearheaded the migration of 10+ analytics dashboards from Tableau to Power BI, cutting load times by 60% and significantly improving reporting access for internal teams.",
         "Built and integrated a custom ServiceNow API into TD's device lookup tool, automating hardware queries and reducing manual request volume by 40% across five departments.",
@@ -59,7 +59,7 @@
       "url": "https://www.yorkdigital.ca/about-us",
       "start_date": "05/2022",
       "end_date": "12/2022",
-      "summary": "Modernized backend systems for Telus Billing by refactoring legacy code, improving data flows, and ensuring stable deployments through QA and impact assessments.",
+      "summary": "Upgraded TELUS's billing platform by refactoring legacy C systems into Kotlin and GCP-integrated services, improving billing accuracy, reducing tech debt, and leading QA efforts to ensure stable deployments.",
       "highlights": [
         "Coordinated closely with business stakeholders and senior engineers to design and deliver accurate, production-grade billing data flows. Delivered reliable, well-documented billing feeds, improving data accuracy and reporting efficiency.",
         "Modernized TELUS' billing infrastructure by migrating legacy C-based components to Kotlin, delivering new GCP-integrated billing feeds and reducing technical debt by 30% while improving maintainability and system performance.",
@@ -72,7 +72,7 @@
       "url": "https://www.365scores.com/pages/about",
       "start_date": "06/2019",
       "end_date": "08/20202",
-      "summary": "Migrated mobile features to web using JavaScript, collaborated on feature planning, and ensured quality through testing and QA for improved product stability.",
+      "summary": "Expanded product access for millions of users by migrating mobile features to the web, while executing robust QA testing and collaborating with international teams to deliver high-quality feature rollouts.",
       "highlights": [
         "Migrated key mobile features to the web platform, expanding access for over 2 million users and enhancing the product's cross-platform reach.",
         "Executed over 100 test cases across multiple testing levels, strengthening release reliability and reducing post-launch issues by 35%.",
@@ -85,7 +85,7 @@
       "url": "https://www.uoguelph.ca/computing/",
       "start_date": "09/2021",
       "end_date": "04/2025",
-      "summary": "Supported CS courses through labs, grading, and office hours, and built auto-graders in Java and C to streamline evaluation and enhance student learning.",
+      "summary": "Assisted in the instruction of technical courses and built auto-grading systems to streamline evaluation, providing personalized support to over 400 students and driving academic success across multiple terms.",
       "highlights": [
         "Built custom auto-grading tools that reduced grading time by 90% and accelerated feedback for over 300 student submissions.",
         "Supported the delivery of 6+ technical courses, assisting 400+ students through labs, office hours, and one-on-one mentoring.",
@@ -94,46 +94,74 @@
     }
   ],
   "projects": [
-    {
-      "title": "E-Commerce Product Catalog & Cart (C# & .NET Framework 4.8)",
-      "summary": "Developed and optimized a dynamic product catalog and shopping cart for a web portal by leveraging Razor views and JavaScript; enabled real-time inventory management and seamless order processing, resulting in improved user experience and increased order accuracy.",
-      "url": "",
-      "highlights": [],
-      "images": []
-    },
-    {
-      "title": "Mobile Flutter App",
-      "summary": "Built a cross-platform mobile app using Flutter and Supabase that helps groups select movies via a swipe-based matchmaking system. Implemented secure auth, real-time syncing, and RESTful APIs.",
-      "url": "",
-      "highlights": [],
-      "images": []
-    },
-    {
-      "title": "Python Chess AI (Variation)",
-      "summary": "Developed a playable chess variant with AI opponent logic using Minimax and Alpha-Beta pruning, demonstrating strong algorithmic thinking and game logic design.",
-      "url": "https://github.com/OrBrener/ChezzAI",
-      "highlights": [
-        "Tested AI performance against 105 students' implementations, optimizing heuristics and achieving competitive results."
-      ],
-      "images": []
-    },
-    {
-      "title": "Full Stack Python Online Molecule Viewer",
-      "summary": "Created a web platform to input, visualize, and analyze 3D molecular structures, integrating front-end interaction with back-end data processing.",
-      "url": "https://orbrener.github.io/Molecule-Viewer/",
-      "highlights": [
-        "Utilized PostgreSQL, C, Python, JavaScript, AJAX, HTML/CSS, and Bootstrap for seamless front-end and back-end integration."
-      ],
-      "images": []
-    },
-    {
-      "title": "The Impact of Implementing Containerization into CI/CD Testing Pipelines",
-      "summary": "Authored a research paper analyzing the effects of containerizing CI/CD testing pipelines, evaluating trade-offs of Docker and GitHub Actions integration.",
-      "url": "https://github.com/OrBrener/SRT-CaseStudy/blob/main/Research_Paper.pdf",
-      "highlights": [],
-      "images": []
-    }
-  ],
+  {
+    "title": "E-Commerce Product Catalog & Cart",
+    "summary": "Built a full-stack e-commerce system to support product browsing, real-time inventory tracking, and streamlined checkout.",
+    "url": "",
+    "highlights": [
+      "Developed catalog and cart features using C#, ASP.NET MVC, and JavaScript, enabling real-time product availability and seamless user flow.",
+      "Implemented dynamic Razor views and session-based cart logic, improving usability and minimizing order errors.",
+      "Optimized database queries and UI responsiveness, resulting in faster load times and a more intuitive shopping experience."
+    ],
+    "images": []
+  },
+  {
+    "title": "StreamSwipe Mobile App",
+    "summary": "Designed a collaborative mobile app that helps groups choose movies through real-time interaction and swipe-based voting.",
+    "url": "",
+    "highlights": [
+      "Built using Flutter and Supabase, with real-time sync and secure authentication via RESTful APIs.",
+      "Engineered matchmaking logic and group state management to coordinate multi-user input and decision flow.",
+      "Delivered a clean, responsive UI that boosted engagement and reduced decision fatigue in user testing."
+    ],
+    "images": []
+  },
+  {
+    "title": "Python Chess AI (Variation)",
+    "summary": "Created a custom chess variant with an AI opponent capable of making competitive decisions using advanced game algorithms.",
+    "url": "https://github.com/OrBrener/ChezzAI",
+    "highlights": [
+      "Implemented Minimax with Alpha-Beta pruning in Python, enabling efficient move selection in a non-standard game structure.",
+      "Tuned evaluation functions and heuristics through test matches against 100+ peer implementations.",
+      "Demonstrated adaptability in AI logic and performance tuning for dynamic board conditions."
+    ],
+    "images": []
+  },
+  {
+    "title": "3D Molecule Viewer (Full Stack Web App)",
+    "summary": "Built a web-based tool for inputting, visualizing, and analyzing 3D molecular data.",
+    "url": "https://orbrener.github.io/Molecule-Viewer/",
+    "highlights": [
+      "Integrated Python, C, PostgreSQL, and JavaScript to process chemical data and render interactive molecule structures.",
+      "Designed AJAX-powered front-end interactions with real-time structure updates, improving research usability.",
+      "Streamlined data input and display workflows, enabling fast molecule loading and inspection."
+    ],
+    "images": []
+  },
+  {
+    "title": "CI/CD Containerization Research",
+    "summary": "Explored the benefits and trade-offs of integrating containerization into CI/CD testing pipelines.",
+    "url": "https://github.com/OrBrener/SRT-CaseStudy/blob/main/Research_Paper.pdf",
+    "highlights": [
+      "Used Docker and GitHub Actions to build an isolated, repeatable test environment for a sample software project.",
+      "Analyzed results to compare build speed, test reliability, and infrastructure complexity across environments.",
+      "Published findings in a technical research paper with practical recommendations for engineering teams."
+    ],
+    "images": []
+  },
+  {
+    "title": "Text File Statistics Tool",
+    "summary": "Upgraded a Pascal-based text analysis program by converting it to Ada and extending its functionality.",
+    "url": "https://github.com/OrBrener/Text-Statistics-In-Pascal-Ada",
+    "highlights": [
+      "Translated core logic into Ada, refactored structure, and added output formatting for clearer readability.",
+      "Enhanced functionality to compute richer statistics like word frequencies, sentence count, and average lengths.",
+      "Demonstrated software modernization and attention to legacy system usability."
+    ],
+    "images": []
+  }
+]
+,
   "volunteer_experience": [
     {
       "organization": "Society of Computing and Information Science",
@@ -141,7 +169,7 @@
       "url": "",
       "start_date": "",
       "end_date": "",
-      "summary": "",
+      "summary": "Supported student leadership initiatives and internal governance for the computing student body during the academic year.",
       "highlights": [
         "Coordinated internal operations and led student committees to support departmental initiatives and engagement.",
         "Collaborated with the College of Engineering and Physical Sciences Student Council through weekly meetings to advocate for computing students.",
@@ -154,7 +182,7 @@
       "url": "",
       "start_date": "",
       "end_date": "",
-      "summary": "Promoted for leadership and awarded Best New Recruit; participated in field training, flight education, and community service.",
+      "summary": "Advanced through a structured leadership and aviation program while contributing to community-focused initiatives.",
       "highlights": [
         "Participated in weekly lessons, monthly field training exercises, and community service activities with a focus on leadership, discipline, and aviation fundamentals.",
         "Promoted to Corporal for consistent leadership and excellence; awarded Best New Recruit during first year.",
@@ -363,32 +391,32 @@
     }
   ],
   "interests": [
-    {
-      "name": "Piano",
-      "summary": "Completed the Royal Conservatory Program and continue to pursue piano as a lifelong learner.",
-      "images": []
-    },
-    {
-      "name": "Real Estate",
-      "summary": "Self-taught in property management and real estate investing since 2018.",
-      "images": []
-    },
-    {
-      "name": "Culinary Arts",
-      "summary": "Enjoy experimenting in the kitchen using creativity, teamwork, and adaptability.",
-      "images": []
-    },
-    {
-      "name": "Automotive Enthusiast",
-      "summary": "Passionate about automotive mechanics and performance driving, applying problem-solving and composure under pressure.",
-      "images": []
-    },
-    {
-      "name": "Chess",
-      "summary": "Former competitive player with strong focus and strategic thinking, developed through nearly a decade of play.",
-      "images": []
-    }
-  ],
+  {
+    "name": "Piano",
+    "summary": "Trained in classical piano through the Royal Conservatory Program, demonstrating discipline, creativity, and a long-term commitment to continuous learning.",
+    "images": []
+  },
+  {
+    "name": "Real Estate",
+    "summary": "Self-educated in real estate investment and property management, applying analytical thinking and financial planning to real-world decision-making.",
+    "images": []
+  },
+  {
+    "name": "Culinary Arts",
+    "summary": "Explore culinary techniques as a creative outlet that fosters precision, adaptability, and collaborative problem-solving under time constraints.",
+    "images": []
+  },
+  {
+    "name": "Automotive Enthusiast",
+    "summary": "Pursue mechanical understanding and skilled driving as ways to strengthen technical curiosity, situational awareness, and problem-solving under pressure.",
+    "images": []
+  },
+  {
+    "name": "Chess",
+    "summary": "Former competitive player with a focus on strategic reasoning, deep concentration, and adaptive decision-making across complex scenarios.",
+    "images": []
+  }
+],
   "languages": [
     {
       "language": "English",
