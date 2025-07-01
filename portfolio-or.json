@@ -29,106 +29,139 @@
   "work_experience": [
     {
       "company": "ecobee",
-      "position": "Integrations Developer",
+      "position": "Integrations Developer (co-op)",
       "url": "https://www.ecobee.com/en-ca/about/",
-      "start_date": "01/01/2024",
-      "end_date": "01/08/2024",
+      "start_date": "01/2024",
+      "end_date": "08/2024",
       "summary": "Contributed to cloud-based system development by building scalable backend services, optimizing integrations, and improving operational efficiency across teams.",
       "highlights": [
-        "Developed key components for a cloud-based service system by writing a router and Cloud Tasks Client, improving reliability and scalability. Reduced processing time by 30% and increased uptime, boosting cross-team efficiency.",
-        "Updated the Shopify-Salesforce integration to route through GCP, streamlining data flow and cutting sync issues by 30%, improving accuracy across 5+ systems.",
-        "Transitioned GCP cloud functions to Docker images, improving scalability and deployment speed by 25%, reducing environment-related issues in production.",
-        "Created detailed process flow diagrams for team architecture and business operations, reducing onboarding and operational errors by 20%."
+        "Engineered scalable GCP Cloud Tasks Client and message router to coordinate inter-service communication, reducing processing time by 30% and significantly improving uptime across core integrations.",
+        "Optimized the Shopify-Salesforce integration by rerouting data flow through GCP, cutting sync issues by 30% and improving data accuracy across 5+ interconnected systems.",
+        "Migrated legacy GCP cloud functions into containerized Docker services, simplifying deployment pipelines and improving integration scalability and resilience in production environments."
       ]
     },
     {
       "company": "TD Bank",
-      "position": "Business Systems Analyst",
+      "position": "Business Systems Analyst (co-op)",
       "url": "https://www.td.com/ca/en/about-td",
-      "start_date": "01/05/2023",
-      "end_date": "01/08/2023",
+      "start_date": "05/2023",
+      "end_date": "08/2023",
       "summary": "Supported global infrastructure improvements by optimizing internal tools, automating workflows, and enhancing data accessibility through dashboard migration and API integration.",
       "highlights": [
-        "Collaborated with the Network Infrastructure team to assess device usability across 30+ international offices, streamlining workflows and improving support reliability.",
-        "Led migration of 10+ dashboards from Tableau to Power BI, cutting load times by 60% and enhancing visibility for internal teams.",
-        "Developed and deployed a ServiceNow API integrated with TD's device lookup tool, now used daily by 5+ departments, reducing manual queries by 40%."
+        "Spearheaded the migration of 10+ analytics dashboards from Tableau to Power BI, cutting load times by 60% and significantly improving reporting access for internal teams.",
+        "Built and integrated a custom ServiceNow API into TD's device lookup tool, automating hardware queries and reducing manual request volume by 40% across five departments.",
+        "Partnered with the Network Infrastructure team to evaluate device performance in 30+ global offices, standardizing workflows and boosting support response reliability."
       ]
     },
     {
-      "company": "York Digital -- Telus Team",
-      "position": "Backend Developer",
+      "company": "York Digital (TELUS Team)",
+      "position": "Software Developer (co-op)",
       "url": "https://www.yorkdigital.ca/about-us",
-      "start_date": "01/05/2022",
-      "end_date": "01/12/2022",
+      "start_date": "05/2022",
+      "end_date": "12/2022",
       "summary": "Modernized backend systems for Telus Billing by refactoring legacy code, improving data flows, and ensuring stable deployments through QA and impact assessments.",
       "highlights": [
-        "Refactored 5,000+ lines of legacy Kotlin code in the Telus Billing System, improving maintainability and reducing technical debt by 30%.",
-        "Collaborated with business stakeholders and senior developers to plan, build, and test new billing data flows. Delivered reliable, well-documented billing feeds, improving data accuracy and reporting efficiency.",
-        "Led impact assessments and QA testing for backend changes. Ensured stability across deployments, reducing bugs and post-release issues."
+        "Coordinated closely with business stakeholders and senior engineers to design and deliver accurate, production-grade billing data flows. Delivered reliable, well-documented billing feeds, improving data accuracy and reporting efficiency.",
+        "Modernized TELUS' billing infrastructure by migrating legacy C-based components to Kotlin, delivering new GCP-integrated billing feeds and reducing technical debt by 30% while improving maintainability and system performance.",
+        "Led QA testing and impact assessments for backend service changes, helping ensure system stability and significantly reducing bugs in post-release environments."
       ]
     },
     {
       "company": "365 Scores",
       "position": "Web Developer & QA",
       "url": "https://www.365scores.com/pages/about",
-      "start_date": "01/06/2019",
-      "end_date": "01/08/20202",
+      "start_date": "06/2019",
+      "end_date": "08/20202",
       "summary": "Migrated mobile features to web using JavaScript, collaborated on feature planning, and ensured quality through testing and QA for improved product stability.",
       "highlights": [
-        "Migrated key mobile features to web using JavaScript/HTML, expanding platform access for 2M+ monthly users.",
-        "Collaborated with product teams to define features based on input from multiple global markets, aligning outcomes with business goals.",
-        "Refactored 5,000+ lines of legacy Kotlin code in the Telus Billing System, improving maintainability and reducing technical debt by 30%.",
-        "Executed 100+ test cases across unit, sanity, and integration levels using JSON APIs, improving release stability by 35%.",
-        "Maintained detailed QA documentation and tracked bugs across Web and Mobile, helping reduce release issues and improving product stability."
+        "Migrated key mobile features to the web platform, expanding access for over 2 million users and enhancing the product's cross-platform reach.",
+        "Executed over 100 test cases across multiple testing levels, strengthening release reliability and reducing post-launch issues by 35%.",
+        "Collaborated with global product teams to align new features with business goals, ensuring relevance across diverse markets."
       ]
     },
     {
       "company": "University of Guelph",
       "position": "Teaching Assistant",
       "url": "https://www.uoguelph.ca/computing/",
-      "start_date": "01/09/2021",
-      "end_date": "Present",
+      "start_date": "09/2021",
+      "end_date": "04/2025",
       "summary": "Supported CS courses through labs, grading, and office hours, and built auto-graders in Java and C to streamline evaluation and enhance student learning.",
       "highlights": [
-        "Taught and supported 6+ courses including C Programming, Discrete Math, and Web Development, assisting 400+ students.",
-        "Conducted labs and held office hours with 30-40 students weekly, improving student understanding and course satisfaction.",
-        "Built auto-grader tools in Java and C, reducing grading time by 90% and improving feedback turnaround for 300+ submissions.",
-        "Recognized by faculty and students for effective communication and consistent support."
+        "Built custom auto-grading tools that reduced grading time by 90% and accelerated feedback for over 300 student submissions.",
+        "Supported the delivery of 6+ technical courses, assisting 400+ students through labs, office hours, and one-on-one mentoring.",
+        "Contributed to improved course satisfaction by providing consistent academic support and clear technical instruction across programming and theory-focused subjects."
       ]
     }
   ],
   "projects": [
     {
+      "title": "E-Commerce Product Catalog & Cart (C# & .NET Framework 4.8)",
+      "summary": "Developed and optimized a dynamic product catalog and shopping cart for a web portal by leveraging Razor views and JavaScript; enabled real-time inventory management and seamless order processing, resulting in improved user experience and increased order accuracy.",
+      "url": "",
+      "highlights": [],
+      "images": []
+    },
+    {
+      "title": "Mobile Flutter App",
+      "summary": "Built a cross-platform mobile app using Flutter and Supabase that helps groups select movies via a swipe-based matchmaking system. Implemented secure auth, real-time syncing, and RESTful APIs.",
+      "url": "",
+      "highlights": [],
+      "images": []
+    },
+    {
       "title": "Python Chess AI (Variation)",
-      "summary": "Developed a chess AI using Minimax with Alpha-Beta pruning, tested against 100+ peers.",
+      "summary": "Developed a playable chess variant with AI opponent logic using Minimax and Alpha-Beta pruning, demonstrating strong algorithmic thinking and game logic design.",
       "url": "https://github.com/OrBrener/ChezzAI",
       "highlights": [
-        "Developed a custom Chess variant for AI gameplay using Minimax algorithm with Alpha-Beta pruning.",
         "Tested AI performance against 105 students' implementations, optimizing heuristics and achieving competitive results."
       ],
       "images": []
     },
     {
       "title": "Full Stack Python Online Molecule Viewer",
-      "summary": "Built a full-stack app to analyze 3D molecules using PostgreSQL, C, Python, and JavaScript.",
+      "summary": "Created a web platform to input, visualize, and analyze 3D molecular structures, integrating front-end interaction with back-end data processing.",
       "url": "https://orbrener.github.io/Molecule-Viewer/",
       "highlights": [
-        "Built a full-stack application for inputting, viewing, and analyzing 3D molecular structures.",
         "Utilized PostgreSQL, C, Python, JavaScript, AJAX, HTML/CSS, and Bootstrap for seamless front-end and back-end integration."
       ],
       "images": []
     },
     {
       "title": "The Impact of Implementing Containerization into CI/CD Testing Pipelines",
-      "summary": "Researched the benefits and challenges of containerizing CI/CD testing pipelines using Docker and GitHub Actions.",
+      "summary": "Authored a research paper analyzing the effects of containerizing CI/CD testing pipelines, evaluating trade-offs of Docker and GitHub Actions integration.",
       "url": "https://github.com/OrBrener/SRT-CaseStudy/blob/main/Research_Paper.pdf",
-      "highlights": [
-        "A research paper that explores the benefits and challenges of containerizing a CI/CD testing pipeline using Docker and GitHub Actions."
-      ],
+      "highlights": [],
       "images": []
     }
   ],
-  "volunteer_experience": [],
+  "volunteer_experience": [
+    {
+      "organization": "Society of Computing and Information Science",
+      "position": "Vice President Internal",
+      "url": "",
+      "start_date": "",
+      "end_date": "",
+      "summary": "",
+      "highlights": [
+        "Coordinated internal operations and led student committees to support departmental initiatives and engagement.",
+        "Collaborated with the College of Engineering and Physical Sciences Student Council through weekly meetings to advocate for computing students.",
+        "Organized bi-weekly events and activities that fostered community, professional development, and peer collaboration."
+      ]
+    },
+    {
+      "organization": "Royal Canadian Air Cadets",
+      "position": "Corporal",
+      "url": "",
+      "start_date": "",
+      "end_date": "",
+      "summary": "Promoted for leadership and awarded Best New Recruit; participated in field training, flight education, and community service.",
+      "highlights": [
+        "Participated in weekly lessons, monthly field training exercises, and community service activities with a focus on leadership, discipline, and aviation fundamentals.",
+        "Promoted to Corporal for consistent leadership and excellence; awarded Best New Recruit during first year.",
+        "Represented squadron values through mentorship, teamwork, and active civic involvement."
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "University of Guelph",
@@ -142,29 +175,19 @@
         "Outstanding Student Award",
         "Dean's List"
       ],
-      "gpa_cumulative": "4.0",
-      "gpa_major": "4.0",
-      "graduation_date": "01/05/2025"
+      "gpa_cumulative": "3.7",
+      "gpa_major": "3.8",
+      "graduation_date": "05/2025"
     }
   ],
   "skills": [
     {
       "name": "C",
       "proficiency": 100,
-      "proficiency_label": "Expert"
-    },
-    {
-      "name": "Python",
-      "proficiency": 100,
-      "proficiency_label": "Expert"
-    },
-    {
-      "name": "Kotlin",
-      "proficiency": 100,
       "proficiency_label": "Advanced"
     },
     {
-      "name": "Java",
+      "name": "Python",
       "proficiency": 100,
       "proficiency_label": "Advanced"
     },
@@ -179,7 +202,37 @@
       "proficiency_label": "Advanced"
     },
     {
-      "name": "npm",
+      "name": "AJAX",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "C#",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "ASP.NET",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "React",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Angular",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Java",
       "proficiency": 100,
       "proficiency_label": "Advanced"
     },
@@ -229,22 +282,22 @@
       "proficiency_label": "Advanced"
     },
     {
+      "name": "Flutter",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Dart",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
+    },
+    {
       "name": "PostgreSQL",
       "proficiency": 100,
       "proficiency_label": "Advanced"
     },
     {
-      "name": "VS Code",
-      "proficiency": 100,
-      "proficiency_label": "Expert"
-    },
-    {
-      "name": "GitHub",
-      "proficiency": 100,
-      "proficiency_label": "Expert"
-    },
-    {
-      "name": "GitLab",
+      "name": "Linux CLI/CMD",
       "proficiency": 100,
       "proficiency_label": "Advanced"
     },
@@ -259,11 +312,6 @@
       "proficiency_label": "Advanced"
     },
     {
-      "name": "Microsoft Office",
-      "proficiency": 100,
-      "proficiency_label": "Advanced"
-    },
-    {
       "name": "Gradle",
       "proficiency": 100,
       "proficiency_label": "Intermediate"
@@ -272,6 +320,11 @@
       "name": "Maven",
       "proficiency": 100,
       "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "npm",
+      "proficiency": 100,
+      "proficiency_label": "Advanced"
     },
     {
       "name": "Figma",
@@ -285,11 +338,6 @@
     },
     {
       "name": "Docker",
-      "proficiency": 100,
-      "proficiency_label": "Advanced"
-    },
-    {
-      "name": "Jira",
       "proficiency": 100,
       "proficiency_label": "Advanced"
     },
@@ -309,17 +357,38 @@
       "proficiency_label": "Intermediate"
     },
     {
-      "name": "Bitbucket",
+      "name": "NetSuite",
       "proficiency": 100,
       "proficiency_label": "Intermediate"
-    },
-    {
-      "name": "Linux CLI/CMD",
-      "proficiency": 100,
-      "proficiency_label": "Advanced"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Piano",
+      "summary": "Completed the Royal Conservatory Program and continue to pursue piano as a lifelong learner.",
+      "images": []
+    },
+    {
+      "name": "Real Estate",
+      "summary": "Self-taught in property management and real estate investing since 2018.",
+      "images": []
+    },
+    {
+      "name": "Culinary Arts",
+      "summary": "Enjoy experimenting in the kitchen using creativity, teamwork, and adaptability.",
+      "images": []
+    },
+    {
+      "name": "Automotive Enthusiast",
+      "summary": "Passionate about automotive mechanics and performance driving, applying problem-solving and composure under pressure.",
+      "images": []
+    },
+    {
+      "name": "Chess",
+      "summary": "Former competitive player with strong focus and strategic thinking, developed through nearly a decade of play.",
+      "images": []
+    }
+  ],
   "languages": [
     {
       "language": "English",
